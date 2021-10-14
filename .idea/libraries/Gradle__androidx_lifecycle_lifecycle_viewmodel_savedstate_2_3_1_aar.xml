@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../KolinProject/DaggerSampleApp/gradle-5.6.4-bin/gradle-5.6.4/caches/transforms-3/d2cfa01d15009298f80d6c0c60ba74b5/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../KolinProject/DaggerSampleApp/gradle-5.6.4-bin/gradle-5.6.4/caches/transforms-3/d2cfa01d15009298f80d6c0c60ba74b5/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/res" />
+      <root url="file://$PROJECT_DIR$/../../../KolinProject/DaggerSampleApp/gradle-5.6.4-bin/gradle-5.6.4/caches/transforms-3/d2cfa01d15009298f80d6c0c60ba74b5/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../KolinProject/DaggerSampleApp/gradle-5.6.4-bin/gradle-5.6.4/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-viewmodel-savedstate/2.3.1/411f92301435123d502de27b6f3262c062f3bd7a/lifecycle-viewmodel-savedstate-2.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

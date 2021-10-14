@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.github.detekt.sarif4k:sarif4k:0.0.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../KolinProject/DaggerSampleApp/gradle-5.6.4-bin/gradle-5.6.4/caches/modules-2/files-2.1/io.github.detekt.sarif4k/sarif4k/0.0.1/9083c4703896cfe82b20f085d7279bf8d5e85219/sarif4k-0.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../KolinProject/DaggerSampleApp/gradle-5.6.4-bin/gradle-5.6.4/caches/modules-2/files-2.1/io.github.detekt.sarif4k/sarif4k/0.0.1/39ce50633b0efeea2869f5db4456d4ab44f386f6/sarif4k-0.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

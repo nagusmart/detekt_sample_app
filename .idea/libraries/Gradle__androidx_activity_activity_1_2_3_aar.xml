@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.activity:activity:1.2.3@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../../../KolinProject/DaggerSampleApp/gradle-5.6.4-bin/gradle-5.6.4/caches/transforms-3/46598b9f4849c9a24e4ba48ff987d010/transformed/jetified-activity-1.2.3/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../KolinProject/DaggerSampleApp/gradle-5.6.4-bin/gradle-5.6.4/caches/transforms-3/46598b9f4849c9a24e4ba48ff987d010/transformed/jetified-activity-1.2.3/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../KolinProject/DaggerSampleApp/gradle-5.6.4-bin/gradle-5.6.4/caches/transforms-3/46598b9f4849c9a24e4ba48ff987d010/transformed/jetified-activity-1.2.3/res" />
+      <root url="file://$PROJECT_DIR$/../../../KolinProject/DaggerSampleApp/gradle-5.6.4-bin/gradle-5.6.4/caches/transforms-3/46598b9f4849c9a24e4ba48ff987d010/transformed/jetified-activity-1.2.3/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../KolinProject/DaggerSampleApp/gradle-5.6.4-bin/gradle-5.6.4/caches/modules-2/files-2.1/androidx.activity/activity/1.2.3/90a39fdeb6c8aa134518e9fc089fd2625a0329b0/activity-1.2.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

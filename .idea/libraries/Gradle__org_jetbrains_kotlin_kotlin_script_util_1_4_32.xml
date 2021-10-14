@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.kotlin:kotlin-script-util:1.4.32">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../KolinProject/DaggerSampleApp/gradle-5.6.4-bin/gradle-5.6.4/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-script-util/1.4.32/5408b213acbf34394ad2fa90ba8bf44969e9828b/kotlin-script-util-1.4.32.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../KolinProject/DaggerSampleApp/gradle-5.6.4-bin/gradle-5.6.4/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-script-util/1.4.32/d5f634d193c3b10fd0de694f453a72578bfb7387/kotlin-script-util-1.4.32-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

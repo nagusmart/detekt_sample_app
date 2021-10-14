@@ -1,0 +1,50 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+
+buildscript {
+
+  ext {
+    kotlin_version = '1.5.10'
+    compileSdkVersion = 30
+    targetSdkVersion = compileSdkVersion
+    minSdkVersion = 19
+  }
+
+  repositories {
+    google()
+    mavenCentral()
+    gradlePluginPortal()
+  }
+
+  dependencies {
+    classpath 'com.android.tools.build:gradle:4.2.1'
+    classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+    // TODO 1 : Add the detekt classpath
+    classpath "io.gitlab.arturbosch.detekt:detekt-gradle-plugin:1.17.1"
+
+    // NOTE: Do not place your application dependencies here; they belong
+    // in the individual module build.gradle files
+  }
+}
+
+// TODO 2 : Add the plugin to your project
+apply plugin: "io.gitlab.arturbosch.detekt"
+
+// TODO 4 : Customize your plugin
+subprojects {
+  apply plugin: "io.gitlab.arturbosch.detekt"
+  detekt {
+    config = files("${project.rootDir}/detekt.yml")
+    parallel = true
+  }
+}
+
+allprojects {
+  repositories {
+    google()
+    mavenCentral()
+  }
+}
+
+task clean(type: Delete) {
+  delete rootProject.buildDir
+}

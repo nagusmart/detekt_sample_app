@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.gitlab.arturbosch.detekt:detekt-report-txt:1.17.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../KolinProject/DaggerSampleApp/gradle-5.6.4-bin/gradle-5.6.4/caches/modules-2/files-2.1/io.gitlab.arturbosch.detekt/detekt-report-txt/1.17.1/612dd92faf67fca0234e7d656e79782892e4db56/detekt-report-txt-1.17.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../KolinProject/DaggerSampleApp/gradle-5.6.4-bin/gradle-5.6.4/caches/modules-2/files-2.1/io.gitlab.arturbosch.detekt/detekt-report-txt/1.17.1/e6eac2050c588cab392f4704b5adbb3f29ee6375/detekt-report-txt-1.17.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

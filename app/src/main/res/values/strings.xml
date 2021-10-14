@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">DetektSampleApp</string>
+  <string name="text_rule_title">Rule Title</string>
+  <string name="text_rule_description">This is a rule description</string>
+  <string name="text_rule_label">Detekt Rule Sets</string>
+  <string name="text_synthetic_import_desc">No Synthetic Import Rule</string>
+</resources>
